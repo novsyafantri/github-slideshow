@@ -1,6 +1,7 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: Box
+title: "Edited By novs, Welcome to new react"
+fish: fillet
 ---
-Your text
-Use the left arrow to go back!
+My text edited
+Use the left arrow to go back! :)
